@@ -1,0 +1,25 @@
+.sidebar {
+	background-color: #88f;
+}
+
+.sidebar__container {
+	padding-top: 50px;
+}
+
+.sidebar__list {
+}
+
+.sidebar__li {
+	list-style-type: none;
+	margin-bottom: 15px;
+}
+
+.sidebar__li:last-child {
+	margin-bottom: 0;
+}
+
+.sidebar__link {
+	text-decoration: none;
+	color: #fff;
+	font-family: Arial, sans-serif;
+}

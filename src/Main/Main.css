@@ -1,0 +1,19 @@
+.main {
+	grid-column: 2/7;
+	background-color: #e9e;
+}
+
+.main__container {
+	padding: 10px;
+}
+
+.main__article {
+}
+
+.article {
+}
+
+.article__text {
+	color: #fff;
+	font-family: Arial, sans-serif;
+}
